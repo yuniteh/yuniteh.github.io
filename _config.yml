@@ -27,7 +27,8 @@ twitter_username: yteh
 github_username:  yuniteh
 
 # Build settings
-remote_theme: jeromelachaud/freelancer-theme
+theme: minima
+#remote_theme: jeromelachaud/freelancer-theme
 plugins:
   - jekyll-feed
 
