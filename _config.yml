@@ -21,7 +21,7 @@
 title: Yuni Teh
 email: yuni@u.northwestern.edu
 description: >- # this means to ignore newlines until "baseurl:"
-logo: "https://yuniteh.github.io/assets/img/headshot.jpg"
+logo: "https://yuniteh.github.io/assets/img/headshot.png"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.yuniteh.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: yteh
