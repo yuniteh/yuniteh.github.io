@@ -21,13 +21,14 @@
 title: Yuni Teh
 email: yuni@u.northwestern.edu
 description: >- # this means to ignore newlines until "baseurl:"
+logo: /_images/headshot.jpg
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: yteh
 github_username:  yuniteh
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
