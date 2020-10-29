@@ -28,6 +28,7 @@
 			medium:  [ '737px',   '980px'  ],
 			small:   [ '481px',   '736px'  ],
 			xsmall:  [ null,      '480px'  ],
+			mhw: ['500px', '980px'],
 		});
 
 	// Play initial animations on page load.
@@ -51,11 +52,11 @@
 		}
 
 	// Footer.
-		breakpoints.on('<=medium', function() {
+		breakpoints.on('h<=mhw', function() {
 			$footer.insertAfter($main);
 		});
 
-		breakpoints.on('>medium', function() {
+		breakpoints.on('h>mhw', function() {
 			$footer.appendTo($header);
 		});
 
